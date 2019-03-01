@@ -1,3 +1,7 @@
+`5.2.0`
+-------
+- **Improvement:** New Balance is amount for selected journal,  not for total Credits.
+
 `5.1.5`
 -------
 - **FIX:** Payment mistakes on in case SERIALIZATION_FAILURE in order processing
